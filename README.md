@@ -4,13 +4,9 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+I have created a splash screen navigating to add your name screen having post api integration.
+This further navigates to user list screen having get api integration
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Uploading WhatsApp Video 2023-05-08 at 11.30.01 PM.mp4…
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
